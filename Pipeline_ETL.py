@@ -13,8 +13,7 @@ import numpy as np
 import pandas as pd
 
 URL_BASE_DATOS = (
-    "https://raw.githubusercontent.com/alessandroescalante99-sudo/"
-    "Proyecto_Ventas_Rentabilidad/main/BaseDeDatos_Original.db"
+    "https://raw.githubusercontent.com/alessandroescalante99-sudo/BasesDeDatos/main/SuperTienda/BaseDeDatos_Original.db"
 )
 
 ARCHIVO_DB = "BaseDeDatos_Original.db"
